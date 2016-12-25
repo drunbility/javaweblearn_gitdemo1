@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [24/Dec/2016:10:36:50 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-1 41
+0:0:0:0:0:0:0:1 - - [24/Dec/2016:10:37:02 +0800] "GET /Restaurant/Soy.html HTTP/1.1" 200 28 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [24/Dec/2016:14:43:27 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 19 http-bio-8080-exec-1 63
+0:0:0:0:0:0:0:1 - - [24/Dec/2016:14:43:41 +0800] "GET /Restaurant/Soy.html HTTP/1.1" 200 28 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [24/Dec/2016:15:14:42 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 19 http-bio-8080-exec-1 76
